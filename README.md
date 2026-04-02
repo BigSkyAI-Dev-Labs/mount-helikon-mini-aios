@@ -59,6 +59,3 @@ Projects are supported as an optional long-running-work mode, but they are **not
 - If a stored memory lacks its `DRIFT_SENTINEL:` line, reinstall that memory.
 - If tools are unavailable, the assistant should say so and proceed with labeled uncertainty or ask minimal questions.
 - If a project behaves differently from plain chat, test the same prompt in a normal chat first; project instructions may be taking precedence.
-
-## QA
-Run `Helikon-mini_QA_PACK_v3.0.5.md` after any change.
