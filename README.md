@@ -1,8 +1,8 @@
-# Mount Helikon 3.0-mini - AIOS (v3.0.9)
+# Mount Helikon 3.0-mini AIOS (v3.0.9)
 
 > **Draft candidate note:** This is the Helikon-mini 3.0.9 SETUP-to-INSTALL handoff hard-binding + synchronized-surface closure candidate set generated from the 3.0.8 memory-settings hard-binding candidate and corrective synchronized patch. Treat the current SHIP manifest in this bundle as authoritative for this closure candidate set.
 
-Helikon-mini 3.0 is the **public Free Starter** for the Helikon family: compact, deterministic, installer-first, and designed to fit the current ChatGPT free-account surface without depending on chat history.
+Mount Helikon 3.0-mini AIOS is the **public Free Starter** for the Mount Helikon family: compact, deterministic, installer-first, and designed to fit the current ChatGPT free-account surface without depending on chat history.
 
 ## What Helikon-mini is
 - A **separate product line**
