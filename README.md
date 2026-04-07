@@ -1,4 +1,4 @@
-# Mount Helikon Mini 3.0 AIOS v3.0.12
+# Mount Helikon Mini 3.0 AIOS (v3.0.12)
 
 > **Draft candidate note:** This is the Mount Helikon Mini 3.0 AIOS 3.0.12 branding-hygiene closure candidate set. Treat the current SHIP manifest in this bundle as authoritative for this closure candidate set.
 
