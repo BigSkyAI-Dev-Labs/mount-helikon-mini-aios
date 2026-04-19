@@ -8,8 +8,6 @@ Mount Helikon Mini 3.0 AIOS is the **Free Starter operating system line for Chat
 - A **JSON-first install package**
 - A clean upgrade path into paid Helikon 5.0
 
-**Namespace note:** shipped filenames remain in the `Helikon-mini_*` namespace and the Saved Memory IDs remain in the `Helikon-mini.*` namespace for runtime continuity in this candidate set.
-
 ## Runtime contract
 - **System Layer** = Personalization (**Custom instructions** + **More about you**)
 - **Operating Layer** = 6 Saved Memories using the `Helikon-mini.*` namespace
